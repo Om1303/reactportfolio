@@ -9,7 +9,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/OM2.jpg")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -28,19 +28,17 @@ export const About = () => {
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
-              <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
-              </p>
+              <p>I have experience In MongoDb and Node.js</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Business Development Executive</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I Have Experience In identifying new business prospects, build
+                relationships with potential clients, and create strategies to
+                increase revenue and market share
               </p>
             </div>
           </li>

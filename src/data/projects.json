@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "LamaSocial",
+    "imageSrc": "projects/Project1.jpg",
+    "description": "This is a project made To Connect People TO Make Better Connections",
+    "skills": ["React", "CSS", "Bootstrap"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "PGLife",
+    "imageSrc": "projects/Project2.jpg",
+    "description": "This is a project made to Find The Best pg in your Surrounding",
+    "skills": ["javascript", "CSS", "SQL", "PHP"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Carved Rock Fitness",
+    "imageSrc": "projects/Project3.jpg",
+    "description": "This is a project made to Online Order fitness Products ",
+    "skills": ["HTML", "CSS", "javascript"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

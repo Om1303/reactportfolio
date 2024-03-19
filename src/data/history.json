@@ -1,29 +1,32 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "Business Development Intern",
+    "organisation": "Eduversity Of Danmark",
+    "startDate": "Feb, 2023",
+    "endDate": "May, 2023",
+    "experiences": ["Worked on Sales Development"],
+    "imageSrc": "history/Eduversity.webp"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Web Development Intern",
+    "organisation": "CodeClause",
+    "startDate": "jul, 2023",
+    "endDate": "Aug, 2023",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Worked on frontend Development",
+      "Designed the UI of Websites"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/CodeClause.jpeg"
+  },
+  {
+    "role": "Marketing Lead",
+    "organisation": "TechWiz",
+    "startDate": "Apr, 2023",
+    "endDate": "present",
+    "experiences": [
+      "Worked With Team On The Marketing Aspects",
+      "Held Some Technical Events"
+    ],
+    "imageSrc": "history/CodeClause.jpeg"
   }
 ]
